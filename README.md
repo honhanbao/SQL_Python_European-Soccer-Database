@@ -19,4 +19,4 @@
    
    ## Description
    In this project, I use pandas to run sql query and also using pandas datafame to query data of interest for analysis.
-   This is a combination work on SQL query and similar function from pandas.
+
