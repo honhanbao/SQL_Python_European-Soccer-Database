@@ -1,4 +1,4 @@
-# European-Soccer-Database
+# European Soccer Database
 
    ## About Dataset
    The ultimate Soccer database for data analysis and machine learning
