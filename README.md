@@ -13,12 +13,12 @@
    Players and Teams' attributes* sourced from EA Sports' FIFA video game series, including the weekly updates
    Team line up with squad formation (X, Y coordinates)
    Betting odds from up to 10 providers
-   Detailed match events (goal types, possession, corner, cross, fouls, cards etc…) for +10,000 matches
+   Detailed match events (goal types, possession, corner, cross, fouls, cards, etc…) for +10,000 matches
    ___
    
    ## Project on kaggle:
    https://www.kaggle.com/code/nhanbaoho/european-soccer-database-with-sql
    
    ## Description
-   In this project, I use pandas to run sql query and also using pandas datafame to query data of interest for analysis.
+   Pandas and SQL are used to query data of interest for analysis.
 
