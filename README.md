@@ -14,11 +14,16 @@
    Team line up with squad formation (X, Y coordinates)
    Betting odds from up to 10 providers
    Detailed match events (goal types, possession, corner, cross, fouls, cards, etc…) for +10,000 matches
-   ___
+
+      
+   ## Description
+   Pandas and SQL are used to query data of interest for analysis.
+
+   ## Some key data generated
+   - Analyse teams:
+     --  Count matches by teams
    
    ## Project on kaggle:
    https://www.kaggle.com/code/nhanbaoho/european-soccer-database-with-sql
-   
-   ## Description
-   Pandas and SQL are used to query data of interest for analysis.
+
 
