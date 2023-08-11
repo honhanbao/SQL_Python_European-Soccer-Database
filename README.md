@@ -18,11 +18,6 @@
       
    ## Description
    Pandas and SQL are used to query data of interest for analysis.
-
-   ## Some key data generated
-   - Analyse teams:
-     -- Count matches by teams
-     -- Count goals scored by teams
    
    ## Project on kaggle:
    https://www.kaggle.com/code/nhanbaoho/european-soccer-database-with-sql
