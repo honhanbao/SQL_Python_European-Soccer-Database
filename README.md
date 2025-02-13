@@ -18,8 +18,6 @@
       
    ## Description
    Pandas and SQL are used to query data of interest for analysis.
-   
-   ## Project on kaggle:
-   https://www.kaggle.com/code/nhanbaoho/european-soccer-database-with-sql
+
 
 
